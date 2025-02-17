@@ -1,4 +1,4 @@
-package src;
+package _1_RotateArray;
 
 // Class to rotate an array 'nums' by 'k' positions
 public class _1_RotateArray {
