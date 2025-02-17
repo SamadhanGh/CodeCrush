@@ -2,6 +2,10 @@
 
 This repository contains a solution for the "Rotate Array" problem from LeetCode. The solution uses an efficient in-place rotation technique that runs in O(n) time complexity with O(1) space complexity.
 
+
+## Problem Link:
+[LeetCode - Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+
 ### Problem Description
 
 Given an integer array `nums`, rotate the array to the right by `k` steps, where `k` is non-negative.
