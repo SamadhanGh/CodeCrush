@@ -1,6 +1,8 @@
 # Pascal's Triangle - Variation 2
+https://leetcode.com/problems/pascals-triangle-ii/description/
 
 ## Problem Statement
+https://leetcode.com/problems/pascals-triangle-ii/description/
 
 Given the row number `n`, print the `n`-th row of Pascal’s Triangle.
 
