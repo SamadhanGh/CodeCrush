@@ -26,17 +26,10 @@ Pascal’s Triangle follows the binomial coefficient formula:
 
 - Each element at `(n, k)` is given by the combination formula:
 
-  **nCk = n! / (k! \* (n-k)!)**
+  **nCr = (n-1)C(k-1) = (n-1)! / ((k-1)! * (n-k)!)**
 
 - Using this formula, we can efficiently compute the entire row of Pascal’s Triangle.
 
-![Pascal's Triangle](https://i.imgur.com/PsNi9qw.jpeg)
-
-## Visual Representation
-
-![Pascal's Triangle Representation](https://i.imgur.com/Q1RGs5a.jpeg)
-
----
 
 ## Approach
 
