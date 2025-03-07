@@ -35,15 +35,14 @@ Pascal’s Triangle follows the binomial coefficient formula:
 
 
 (Insert your image of Pascal's Triangle here)
-![Pascal's Triangle](https://i.imgur.com/fK5bfaN.png)
+![Pascal's Triangle](https://i.imgur.com/PsNi9qw.jpeg)
 
 ## Visual Representation
 
 ##
 
 
-
-(Insert your image of Pascal's Triangle here)Approach
+https://i.imgur.com/Q1RGs5a.jpeg
 
 ### **Mathematical Approach (Using nCr Formula)**
 
