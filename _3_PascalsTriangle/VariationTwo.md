@@ -66,8 +66,8 @@ public class codeCrush {
 
     public static void pascalTriangle(int n) {
         // printing the entire row n:
-        for (int c = 1; c <= n; c++) {
-            System.out.print(nCr(n - 1, c - 1) + " ");
+        for (int c = 0; c < n; c++) {
+            System.out.print(nCr(n - 1, c) + " ");
         }
         System.out.println();
     }
@@ -81,12 +81,16 @@ public class codeCrush {
 
 ---
 
-### **Optimized Approach (Using nCr Formula)**
+### **Optimized Approach (Using nCr Formula Iteratively)**
 
 #### Explanation:
 
 1. The `n`-th row of Pascal’s Triangle follows the binomial coefficient formula.
-2. We compute each element iteratively to avoid large factorial calculations.
+2. We compute each element iteratively using the formula:
+   
+   **ans = ans × (row - col) / col**
+
+   This avoids large factorial calculations and improves efficiency.
 3. This avoids storing unnecessary rows, making it more efficient.
 
 #### Complexity:
@@ -104,10 +108,9 @@ public class codeCrush {
         long ans = 1;
         System.out.print(ans + " "); // printing 1st element
 
-        // Printing the rest of the part:
+        // Printing the rest of the part using optimized formula:
         for (int i = 1; i < n; i++) {
-            ans = ans * (n - i);
-            ans = ans / i;
+            ans = ans * (n - i) / i;
             System.out.print(ans + " ");
         }
         System.out.println();
@@ -143,7 +146,7 @@ n = 5
 
 #### Processing:
 
-- Using `nCr` formula:
+- Using `nCr` formula iteratively:
   - `5C0 = 1`, `5C1 = 4`, `5C2 = 6`, `5C3 = 4`, `5C4 = 1`
 
 #### Output:
