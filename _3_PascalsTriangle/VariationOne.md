@@ -35,7 +35,7 @@ Pascal’s Triangle follows the binomial coefficient formula:
 
 
 (Insert your image of Pascal's Triangle here)
-![Pascal's Triangle](https://github.com/SamadhanGh/CodeCrush/main/main/"C:\Users\sdgho\OneDrive\Pictures\Screenshots\Picture1.png")
+![Pascal's Triangle](https://github.com/SamadhanGh/CodeCrush/edit/main/_3_PascalsTriangle/VariationOne.md"C:\Users\sdgho\OneDrive\Pictures\Screenshots\Picture1.png")
 
 ## Visual Representation
 
