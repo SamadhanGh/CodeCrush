@@ -30,16 +30,15 @@ Pascal’s Triangle follows the binomial coefficient formula:
 
 - Using this formula, we can efficiently compute any element in Pascal’s Triangle.
 
-### Visual Representation
-
-
-
 (Insert your image of Pascal's Triangle here)
-![Pascal's Triangle](https://github.com/SamadhanGh/CodeCrush/main/main/"C:\Users\sdgho\OneDrive\Pictures\Screenshots\Picture1.png")
+![Pascal's Triangle](https://i.imgur.com/PsNi9qw.jpeg)
 
 ## Visual Representation
 
 ##
+
+
+https://i.imgur.com/Q1RGs5a.jpeg
 
 
 
