@@ -144,9 +144,5 @@ public class NextPermutationOptimal {
 
 ---
 
-## 🚀 Sharpen Your Skills
-If you're looking to explore more variations of this problem or tackle tricky edge cases, feel free to ask! 😊
 
-### 🔗 Like the Repo?
-If you found this helpful, consider giving the repository a ⭐ on GitHub!
 
