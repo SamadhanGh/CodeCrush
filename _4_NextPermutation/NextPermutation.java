@@ -1,8 +1,9 @@
 package _4_NextPermutation;
 
+
 import java.util.*;
 
-public class NextPermutation{
+public class NextPermutation {
     static void swap(int[] nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];

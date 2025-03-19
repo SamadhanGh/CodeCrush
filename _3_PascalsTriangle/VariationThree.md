@@ -1,5 +1,5 @@
 # Pascal's Triangle - Variation 3
-
+https://leetcode.com/problems/pascals-triangle/
 ## Problem Statement
 Given an integer `numRows`, generate the first `numRows` of Pascal's Triangle.
 
