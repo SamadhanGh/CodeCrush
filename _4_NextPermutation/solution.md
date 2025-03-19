@@ -1,5 +1,7 @@
 # Next Permutation
 
+https://leetcode.com/problems/next-permutation/ 
+
 ## Problem Statement
 Given an array of integers representing a permutation of numbers, you need to find the **next lexicographical permutation**. If no such permutation exists, return the array sorted in ascending order.
 
