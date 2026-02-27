@@ -281,7 +281,7 @@ class Solution {
             int current = numbers[i]; //pick number, what i have  
             int complement = target - current; //  calculate , what i need 
 
-            // 3️⃣ Check if complement exists in map
+            // 3️⃣ Check if complement exists in map - if the number I need (complement) already exists in my memory (map)
             if (map.containsKey(complement)) {
                 // Return 1-based indices
                 return new int[]{map.get(complement) + 1, i + 1};
