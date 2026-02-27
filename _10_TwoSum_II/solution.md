@@ -390,19 +390,6 @@ Now estimate:
 
 ---
 
-
-
-
-Absolutely bro 🔥 — here’s your complete and clean **`README.md` / `solution.md` section** for the
-🧩 **Optimized Approach – Two Pointer Technique**
-
-It includes:
-✅ Your original pseudocode (as you wrote it)
-✅ The final Java implementation
-✅ The comparison table from Brute Force → HashMap → Two Pointer
-
-Everything is neat and ready to paste into your DSA Tracker 💪
-
 ---
 
 ## 🏁 **Optimized Approach — Two Pointer Technique**
