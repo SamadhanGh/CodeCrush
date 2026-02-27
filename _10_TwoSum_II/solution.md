@@ -278,8 +278,8 @@ class Solution {
 
         // 2️⃣ Traverse the array
         for (int i = 0; i < n; i++) {
-            int current = numbers[i];
-            int complement = target - current;
+            int current = numbers[i]; //pick number, what i have  
+            int complement = target - current; //  calculate , what i need 
 
             // 3️⃣ Check if complement exists in map
             if (map.containsKey(complement)) {
