@@ -2,8 +2,7 @@
 
 > **From First Thought to Optimal Solution.**
 
-A public notebook of my journey to becoming a stronger Software Engineer through Data Structures & Algorithms.
-
+A public notebook documenting my journey to becoming a better Software Engineer through Data Structures & Algorithms.
 ---
 
 ## About
@@ -16,7 +15,7 @@ For every problem, the goal is not just to solve it — but to understand it, ex
 
 ---
 
-## What You'll Find
+#### Inside CodeCrush
 
 - 📂 Pattern-wise DSA organization  
 - 💻 Java implementations  
