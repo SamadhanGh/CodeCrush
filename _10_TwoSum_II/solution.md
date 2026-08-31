@@ -42,7 +42,7 @@ We check **every possible pair** of elements to see if their sum equals the targ
 ### 🧩 Code
 
 ```java
-class Solution {
+class twoSumII {
     public int[] twoSum(int[] numbers, int target) {
         int n = numbers.length;
 
@@ -269,7 +269,7 @@ Return [-1, -1]  // If no pair found (though problem guarantees one)
 ```java
 import java.util.HashMap;
 
-class Solution {
+class twoSumII {
     public int[] twoSum(int[] numbers, int target) {
 
         // 1️⃣ Create a HashMap to store number → index
@@ -437,7 +437,7 @@ return empty
 ```java
 import java.util.Arrays;
 
-class Solution {
+class twoSumII {
     public int[] twoSum(int[] nums, int target) {
 
         // Step 1: Sort the array (if not already sorted)

@@ -1,7 +1,7 @@
 
 ---
 
-## 🧾 **Solution.md** — *First Negative Integer in Every Window of Size K*
+## 🧾 **twoSumII.md** — *First Negative Integer in Every Window of Size K*
 
 ---
 
@@ -112,7 +112,7 @@ public class BruteForceSolution {
 ```java
 import java.util.*;
 
-class Solution {
+class twoSumII {
     static List<Integer> firstNegInt(int arr[], int k) {
         int n = arr.length;
         Queue<Integer> queue = new LinkedList<>();

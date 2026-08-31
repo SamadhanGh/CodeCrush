@@ -2,6 +2,7 @@
 ---
 
 ## 🧾 Problem: Two Sum II – Input Array Is Sorted
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 
 ### 📘 Problem Statement
 
@@ -41,7 +42,7 @@ We check **every possible pair** of elements to see if their sum equals the targ
 ### 🧩 Code
 
 ```java
-class Solution {
+class twoSumII {
     public int[] twoSum(int[] numbers, int target) {
         int n = numbers.length;
 
@@ -268,7 +269,7 @@ Return [-1, -1]  // If no pair found (though problem guarantees one)
 ```java
 import java.util.HashMap;
 
-class Solution {
+class twoSumII {
     public int[] twoSum(int[] numbers, int target) {
 
         // 1️⃣ Create a HashMap to store number → index
@@ -277,10 +278,10 @@ class Solution {
 
         // 2️⃣ Traverse the array
         for (int i = 0; i < n; i++) {
-            int current = numbers[i];
-            int complement = target - current;
+            int current = numbers[i]; //pick number, what i have  
+            int complement = target - current; //  calculate , what i need 
 
-            // 3️⃣ Check if complement exists in map
+            // 3️⃣ Check if complement exists in map - if the number I need (complement) already exists in my memory (map)
             if (map.containsKey(complement)) {
                 // Return 1-based indices
                 return new int[]{map.get(complement) + 1, i + 1};
@@ -389,19 +390,6 @@ Now estimate:
 
 ---
 
-
-
-
-Absolutely bro 🔥 — here’s your complete and clean **`README.md` / `solution.md` section** for the
-🧩 **Optimized Approach – Two Pointer Technique**
-
-It includes:
-✅ Your original pseudocode (as you wrote it)
-✅ The final Java implementation
-✅ The comparison table from Brute Force → HashMap → Two Pointer
-
-Everything is neat and ready to paste into your DSA Tracker 💪
-
 ---
 
 ## 🏁 **Optimized Approach — Two Pointer Technique**
@@ -449,7 +437,7 @@ return empty
 ```java
 import java.util.Arrays;
 
-class Solution {
+class twoSumII {
     public int[] twoSum(int[] nums, int target) {
 
         // Step 1: Sort the array (if not already sorted)

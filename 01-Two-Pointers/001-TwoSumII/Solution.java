@@ -1,3 +1,5 @@
+package p001;
+
 public class Solution {
     /**
      * Two-pointer solution for Two Sum II - Input array is sorted.
@@ -23,7 +25,7 @@ public class Solution {
 
     // Simple main to run a quick check locally
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        p001.Solution sol = new p001.Solution();
         int[] numbers = {1, 2, 3, 4, 6};
         int target = 6;
         int[] ans = sol.twoSum(numbers, target);

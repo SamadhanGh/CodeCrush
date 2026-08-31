@@ -49,7 +49,7 @@ To solve this problem efficiently, we need to track which rows and columns shoul
 ## Code Implementation (Optimal Approach)
 
 ```java
-class Solution {
+class twoSumII {
   public void setZeroes(int[][] matrix) {
     boolean firstRow = false, firstCol = false;
 

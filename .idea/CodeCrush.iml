@@ -3,8 +3,6 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/01-Two-Pointers/001-TwoSumII" isTestSource="false" packagePrefix="p001" />
-      <sourceFolder url="file://$MODULE_DIR$/01-Two-Pointers/002-Segregate0And1s" isTestSource="false" packagePrefix="p002" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
