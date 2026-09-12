@@ -1,6 +1,6 @@
 # CodeCrush 💔➡️💪
 
-> **From First Thought to Optimal twoSumII.**
+> **From First Thought to Optimal Solution.**
 
 A public notebook documenting my journey to becoming a better Software Engineer through Data Structures & Algorithms.
 ---
