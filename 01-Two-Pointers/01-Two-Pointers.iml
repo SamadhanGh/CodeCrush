@@ -6,6 +6,10 @@
     <sourceFolder url="file://$MODULE_DIR$/001-TwoSumII" isTestSource = "false" packagePrefix = "p001" />
     <sourceFolder url="file://$MODULE_DIR$/002-Segregate0And1s" isTestSource = "false" packagePrefix = "p002" />
     <sourceFolder url="file://$MODULE_DIR$/003-RemoveDuplicatesFromSortedArray" isTestSource = "false" packagePrefix = "p003" />
+    <sourceFolder url="file://$MODULE_DIR$/004-RemoveDuplicatesFromSortedList" isTestSource = "false" packagePrefix = "p004" />
+
+
+
 
 
     </content>
