@@ -7,6 +7,7 @@
     <sourceFolder url="file://$MODULE_DIR$/002-Segregate0And1s" isTestSource = "false" packagePrefix = "p002" />
     <sourceFolder url="file://$MODULE_DIR$/003-RemoveDuplicatesFromSortedArray" isTestSource = "false" packagePrefix = "p003" />
     <sourceFolder url="file://$MODULE_DIR$/004-RemoveDuplicatesFromSortedList" isTestSource = "false" packagePrefix = "p004" />
+    <sourceFolder url="file://$MODULE_DIR$/005-LinkedListCycle" isTestSource = "false" packagePrefix = "p005" />
 
 
 
